@@ -85,4 +85,4 @@ Analytical Thinking | Creativity | Communication | Leadership | Adaptability | T
 ## 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/aditya-a-dhakane8067)  
 - 📧 [aadityadhakane@gmail.com](mailto:aadityadhakane@gmail.com)  & [dhakaneaditya502@gmail.com](mailto:dhakaneaditya502@gmail.com) 
-- 🐙 [GitHub](https://github.com/aadi2234) & [Projects GitHub](https://github.com/aadi8067) [For Collaboration](https://github.com/aditya8067nemaai)
+- 🐙 [GitHub](https://github.com/aadi8067) & [Projects & Practicals GitHub](https://github.com/aadi2234) [For Collaboration](https://github.com/aditya8067nemaai)
